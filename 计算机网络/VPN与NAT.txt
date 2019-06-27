@@ -19,6 +19,10 @@ NAT地址转换表
 NAT路由器: 存在N个全球ip则可以同时给N个主机提供上网服务、 
 
 达到NAT路由器时怎么识别最终是局域网内哪台主机？
-	NAPT：Network Address And Port Translation 
+	NAPT：Network Address And Port Translation  网络层与运输层
 	Traditional NAT
 	使用端口号区分
+
+NAT路由器转发包一定改变ip信息 出改源，入改目的地ip 网络层
+
+https://www.cnblogs.com/dongzhuangdian/p/5105844.html
