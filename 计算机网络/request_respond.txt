@@ -1,0 +1,8 @@
+基于消息的模型，client发送一个 server返回一个 传输机制：有状态的TCP协议 请求与相应自动完成 可以使用不同的tcp连接
+
+请求
+referer：请求的原始URL
+
+
+URL编码、Unicode编码、HTML编码、Base64、十六进制编码
+远程和序列化框架： Flex和AMF Silverlight的WCF Java序列化对象
